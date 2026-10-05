@@ -4955,6 +4955,12 @@
 		(uuid "ac16528f-f258-482b-93d9-71931bb09b6e")
 	)
 	(junction
+		(at 265.43 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0121ed5a-26ed-4067-bb3a-e33b79bd301a")
+	)
+	(junction
 		(at 224.79 12.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5085,6 +5091,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5214bfb7-92ec-4713-a5da-1a1fb5aa9b71")
+	)
+	(junction
+		(at 209.55 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5df2da93-8596-4f25-886e-18654c96263d")
 	)
 	(junction
 		(at 104.14 96.52)
@@ -5310,24 +5322,6 @@
 		(at 69.85 57.15)
 		(uuid "a1ffe5c2-d181-4b7e-a63e-77c7e4ae0c8a")
 	)
-	(bus_entry
-		(at 74.93 46.99)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fb81447-91c0-4fc6-b30e-25b9907e3b82")
-	)
-	(bus_entry
-		(at 77.47 46.99)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed3f4f88-a83e-4a7d-bbdd-7c8df4904009")
-	)
 	(wire
 		(pts
 			(xy 74.93 114.3) (xy 77.47 114.3)
@@ -5500,6 +5494,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 44.45) (xy 73.66 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c177ea3-ca54-46b9-933a-35e043b44d6c")
+	)
+	(wire
+		(pts
 			(xy 102.87 96.52) (xy 104.14 96.52)
 		)
 		(stroke
@@ -5590,16 +5594,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 44.45) (xy 82.55 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e89bd26-3a2a-4970-98c1-365cdb0593a3")
-	)
-	(wire
-		(pts
 			(xy 262.89 46.99) (xy 267.97 46.99)
 		)
 		(stroke
@@ -5667,6 +5661,16 @@
 			(type default)
 		)
 		(uuid "2721c36a-8766-468c-a6e7-e019f2ae4bd7")
+	)
+	(wire
+		(pts
+			(xy 265.43 59.69) (xy 265.43 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2744820b-5885-42b5-85b4-a06342e85123")
 	)
 	(wire
 		(pts
@@ -5770,6 +5774,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 46.99) (xy 77.47 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30d9a60d-38a9-4117-9e1c-6141d3b64921")
+	)
+	(wire
+		(pts
 			(xy 38.1 120.65) (xy 38.1 121.92)
 		)
 		(stroke
@@ -5857,6 +5871,16 @@
 			(type default)
 		)
 		(uuid "3c4f2d2b-afa0-4877-baf9-220695361127")
+	)
+	(wire
+		(pts
+			(xy 212.09 59.69) (xy 209.55 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d959e6b-390f-4657-b02a-892707a98dc8")
 	)
 	(wire
 		(pts
@@ -6070,7 +6094,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 59.69) (xy 212.09 60.96)
+			(xy 209.55 59.69) (xy 209.55 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6460,7 +6484,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 44.45) (xy 74.93 44.45)
+			(xy 69.85 44.45) (xy 73.66 44.45)
 		)
 		(stroke
 			(width 0)
@@ -6670,6 +6694,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 48.26) (xy 73.66 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93410683-b6ea-4915-8eaa-944e515f1da2")
+	)
+	(wire
+		(pts
 			(xy 162.56 57.15) (xy 165.1 57.15)
 		)
 		(stroke
@@ -6757,6 +6791,16 @@
 			(type default)
 		)
 		(uuid "a03cce1f-a03e-4bc5-b0f9-5f5f753b198c")
+	)
+	(wire
+		(pts
+			(xy 76.2 44.45) (xy 82.55 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a097fb8b-4da2-4998-862f-74498cc23046")
 	)
 	(wire
 		(pts
@@ -6890,7 +6934,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 46.99) (xy 74.93 46.99)
+			(xy 69.85 46.99) (xy 76.2 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6947,6 +6991,16 @@
 			(type default)
 		)
 		(uuid "be1bcf51-ea29-4914-8342-307fb2bfadfd")
+	)
+	(wire
+		(pts
+			(xy 76.2 46.99) (xy 76.2 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf435d23-2202-4529-941d-b01bbe01ed87")
 	)
 	(wire
 		(pts
@@ -7187,6 +7241,16 @@
 			(type default)
 		)
 		(uuid "de11757e-cec3-4d47-ab5e-03b52d9a37a1")
+	)
+	(wire
+		(pts
+			(xy 209.55 59.69) (xy 209.55 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de9bb28a-74ed-498c-bf05-c32f5f6ed540")
 	)
 	(wire
 		(pts
@@ -8867,7 +8931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
 			(at 227.33 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -9034,7 +9098,7 @@
 		(dnp no)
 		(uuid "092ebfab-c315-4d18-b1cb-e17efffb8fce")
 		(property "Reference" "J15"
-			(at 124.714 49.53 0)
+			(at 114.554 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9817,7 +9881,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 33.02 63.8048 0)
 			(hide yes)
 			(show_name no)
@@ -11006,7 +11070,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 212.09 60.96 0)
+		(at 209.55 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11016,7 +11080,7 @@
 		(dnp no)
 		(uuid "59a2d11e-8670-432d-8377-16540702545e")
 		(property "Reference" "#PWR052"
-			(at 212.09 67.31 0)
+			(at 209.55 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11027,7 +11091,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 64.516 0)
+			(at 209.55 64.516 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11037,7 +11101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 60.96 0)
+			(at 209.55 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11048,7 +11112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 60.96 0)
+			(at 209.55 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11059,7 +11123,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 60.96 0)
+			(at 209.55 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11114,7 +11178,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 33.02 56.1848 0)
 			(hide yes)
 			(show_name no)
@@ -11388,7 +11452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0my_project:BNO086_PinSocket"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
 			(at 40.64 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -12154,7 +12218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 102.362 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -12275,6 +12339,83 @@
 			(project "titanRIO"
 				(path "/5914911c-bfc4-448e-a0f4-3ad4bb2a080b/6048e5a7-be1f-46d0-9084-963648d43737"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 265.43 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8cec3a9b-eb50-4c33-b0d3-879ac15bf723")
+		(property "Reference" "#PWR059"
+			(at 265.43 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 265.43 64.516 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 265.43 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7459c941-16ab-449d-b1b1-405aba1b9faf")
+		)
+		(instances
+			(project "titanRIO"
+				(path "/5914911c-bfc4-448e-a0f4-3ad4bb2a080b/6048e5a7-be1f-46d0-9084-963648d43737"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -12633,7 +12774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
 			(at 121.92 46.228 90)
 			(hide yes)
 			(show_name no)
@@ -12712,7 +12853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
 			(at 121.92 56.388 90)
 			(hide yes)
 			(show_name no)
@@ -12994,7 +13135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 99.822 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -13350,83 +13491,6 @@
 			(project "titanRIO"
 				(path "/5914911c-bfc4-448e-a0f4-3ad4bb2a080b/6048e5a7-be1f-46d0-9084-963648d43737"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 209.55 34.29 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b740077a-132f-4728-aa9f-c22fd7a66ba2")
-		(property "Reference" "#PWR022"
-			(at 209.55 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 209.55 37.846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "259cbd74-6885-424d-9743-372c9c227f6e")
-		)
-		(instances
-			(project "titanRIO"
-				(path "/5914911c-bfc4-448e-a0f4-3ad4bb2a080b/6048e5a7-be1f-46d0-9084-963648d43737"
-					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -13887,7 +13951,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 50.8 35.8648 0)
 			(hide yes)
 			(show_name no)
@@ -14202,7 +14266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 91.44 35.8648 0)
 			(hide yes)
 			(show_name no)
