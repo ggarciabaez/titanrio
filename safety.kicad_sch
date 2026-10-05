@@ -6173,7 +6173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W8.61mm_P2.54mm"
 			(at 106.68 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6740,7 +6740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_Panasonic_DR-L2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 205.74 74.93 0)
 			(hide yes)
 			(show_name no)
