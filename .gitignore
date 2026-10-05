@@ -1,0 +1,8 @@
+*.bak
+*.tmp
+*.kicad_prl
+~*
+.DS_Store
+Thumbs.db
+__pycache__/
+.history/
