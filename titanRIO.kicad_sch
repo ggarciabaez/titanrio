@@ -14901,7 +14901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10"
 			(at 69.85 158.75 0)
 			(hide yes)
 			(show_name no)
